@@ -1,6 +1,6 @@
 ### Статус сборки
 
-[![Build status](https://ci.appveyor.com/api/projects/status/wu7sdl2enqdkhcxe?svg=true)](https://ci.appveyor.com/project/melnikonayana/ahj-10-media-text)
+[![Build status](https://ci.appveyor.com/api/projects/status/9ijqo4awolin93ck?svg=true)](https://ci.appveyor.com/project/melnikonayana/react-components-77nv3)
 
 # Getting Started with Create React App
 
