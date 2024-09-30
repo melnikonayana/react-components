@@ -2,7 +2,7 @@
   "name": "react-components",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/melnikonayana",
+  "homepage": "https://melnikonayana.github.io/react-components/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
