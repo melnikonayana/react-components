@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-components/static/css/main.95647f81.css",
+    "main.js": "/react-components/static/js/main.f42d3a0e.js",
+    "static/media/item-blue.jpg": "/react-components/static/media/item-blue.2103f69bf3b1c8b44f34.jpg",
+    "static/media/item-black.jpg": "/react-components/static/media/item-black.dd74251d47c485703b4d.jpg",
+    "index.html": "/react-components/index.html",
+    "main.95647f81.css.map": "/react-components/static/css/main.95647f81.css.map",
+    "main.f42d3a0e.js.map": "/react-components/static/js/main.f42d3a0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95647f81.css",
+    "static/js/main.f42d3a0e.js"
+  ]
+}
